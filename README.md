@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to flip-card-game 👋</h1>
+<h1 align="center">flip-card-game 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### ✨ [Demo](demo)
+# ✨ [Demo](https://flip-card-game-gamma.vercel.app/)
 
 ## Install
 
